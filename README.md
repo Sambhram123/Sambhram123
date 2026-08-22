@@ -175,25 +175,6 @@ Deepening my Kubernetes skills toward production-grade observability, expanding 
 
 <br/>
 
-## &nbsp;📊&nbsp; GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sambhram123&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2C5364&icon_color=2C5364&text_color=c9d1d9&include_all_commits=false&count_private=false" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambhram123&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2C5364&text_color=c9d1d9&layout=compact" height="165"/>
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Sambhram123&theme=tokyonight&hide_border=true&background=0D1117&ring=2C5364&fire=2C5364&currStreakLabel=2C5364"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sambhram123&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
-
-</div>
-
-<br/>
-
 <div align="center">
 
 <i>"Infrastructure should be invisible — until it isn't needed to be."</i>
