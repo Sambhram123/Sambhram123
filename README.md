@@ -161,6 +161,20 @@ Full-stack application deployed on EC2, with Security Groups configured for secu
 
 <br/>
 
+## &nbsp;🌱&nbsp; Currently Exploring
+
+<table>
+<tr>
+<td width="100%">
+
+Deepening my Kubernetes skills toward production-grade observability, expanding hands-on GitOps practice with ArgoCD, and working toward the **AWS Certified DevOps Engineer – Professional** certification.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ## &nbsp;📊&nbsp; GitHub Analytics
 
 <div align="center">
@@ -171,6 +185,18 @@ Full-stack application deployed on EC2, with Security Groups configured for secu
 <br/>
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=Sambhram123&theme=tokyonight&hide_border=true&background=0D1117&ring=2C5364&fire=2C5364&currStreakLabel=2C5364"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sambhram123&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<i>"Infrastructure should be invisible — until it isn't needed to be."</i>
 
 </div>
 
