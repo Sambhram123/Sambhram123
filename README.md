@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Sambhram%20Naik&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Associate%20DevOps%20%2F%20Cloud%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-<a href="https://linkedin.com/in/sambhram-naik">
+<a href="https://linkedin.com/in/naik-sambhram">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:naiksambhram71@gmail.com">
